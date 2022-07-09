@@ -1,0 +1,21 @@
+_id: req_0ae908d1da704bc3b44f2db2ab06cd83
+type: Request
+parentId: wrk_fa9a33a3ef9b47f19f445855a84d35d2
+modified: 1657361479751
+created: 1657360745769
+url: "{{ _.base_url }}/uuid"
+name: First test
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657360745769
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
